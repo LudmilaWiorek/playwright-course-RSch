@@ -4,7 +4,8 @@
   "description": "^c",
   "main": "^c",
   "scripts": {
-    "test": "playwright test --headed"
+    "test": "playwright test --headed",
+    "test:ci": "playwright test"
   },
   "author": "",
   "license": "ISC",
